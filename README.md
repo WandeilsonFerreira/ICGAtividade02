@@ -1,1 +1,1 @@
-Para compilar, ```$ make all```# ICGAtividade02
+# ICGAtividade02
